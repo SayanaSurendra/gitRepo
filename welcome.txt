@@ -1,1 +1,2 @@
 Adding welcome text!!
+Git Cloned copy
